@@ -3,7 +3,7 @@ module.exports = {
         pubkey,
         text
     ) {
-        return com.org.myrsacrypto.MyRSACrypto.encrypt(
+        return com.org.mprsacrypto.MPRSACrypto.encrypt(
             pubkey,
             text
         );
