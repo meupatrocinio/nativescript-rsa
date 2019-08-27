@@ -13,6 +13,11 @@ The only thing that it require to be passed is the pubKey __base64__ encoded and
 ```sh
 tns plugin add "https://github.com/meupatrocinio/nativescript-rsa.git"
 ```
+or
+```sh
+yarn add "https://github.com/meupatrocinio/nativescript-rsa.git"
+```
+
 
 ## Usage
 A usage example can be viewed in the following code:
