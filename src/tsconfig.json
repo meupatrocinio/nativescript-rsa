@@ -23,5 +23,11 @@
     "exclude": [
         "node_modules"
     ],
+    "files": [
+        "index.d.ts",
+        "mpcrypto.android.ts",
+        "mpcrypto.common.ts",
+        "mpcrypto.ios.ts"
+    ],
     "compileOnSave": false
 }
